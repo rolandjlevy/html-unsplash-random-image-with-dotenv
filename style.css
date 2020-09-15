@@ -5,6 +5,10 @@
   flex-direction: column;
 }
 
+.btn {
+  font-size: 1rem;
+}
+
 .m-t-10 {
   margin-top: 10px;
 }
